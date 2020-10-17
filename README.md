@@ -92,7 +92,7 @@ Finally, the number of test scores eliminated from the overall analysis represen
 
 Here are some findings regardless of the Thomas High School 9th-grade scores (*please refer to the all school summary below*):   
  
-1.  The students of PyCity School District tend to **perform better on reading tests** than Math; and a higher percentage of students earn a passing grade on Reading.  
+1.  The students of PyCity School District tend to **perform better on Reading tests** than on Math test; and a higher percentage of students earn a passing grade on Reading.  
 
 2.  **Charter Schools perform better than District Schools** on the standardized math and reading tests and had a higher overall passing percentage. In fact, all the top 5 schools were all Charter and all the bottom 5 were District. Even more telling, is the fact ALL of the Charter-type schools (Rank 1 through 8) outperformed ALL of the District-type schools (Rank 9 through 15). 
 
