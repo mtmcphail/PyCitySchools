@@ -34,7 +34,7 @@ Once removed and adjusted, the District results **drop slighly to 64.9%**.  In f
 ![District_level2](./Resources/district_summary_df_updt.png)
 
 
-Drilling down into the **School level**, we can see why.  Prior to the removal of the THS 9th grade scores, Thomas High School was ranked #2 in the top 5 schools based on percentage of Overall Passing.  ![District_level1](./Resources/top_5_og2.png)
+Drilling down into the **School level**, we can see why.  Prior to the removal of the THS 9th grade scores, Thomas High School was ranked #2 in the **top 5 schools** based on percentage of Overall Passing.  ![District_level1](./Resources/top_5_og2.png)
 
 
 Without the 9th grade performance, Thomas High School is still ranked second in the top five for overall passing percentage; although it is clear that the 9th graders did draw up their average scores, but eliminating them did little to change their overall school-level standing as the averages decline without their contribution.   
@@ -44,7 +44,7 @@ Without the 9th grade performance, Thomas High School is still ranked second in 
 
 While the individual math and reading results and their respective percentages are lower than the #3 ranked school, Griffin High School, the percentage of Thomas High School 10-12 grade students that passed both math and reading is still higher than the percentage of 9th - 12th grade Griffin students that passed both tests.  
 
-Not surprising, the adjustment in THS data did not have an effect on the bottom 5 schools:
+Not surprising, the adjustment in THS data did not have an effect on the **bottom 5 schools**:
 ![Bottom_5](./Resources/bottom_5_updt.png)
 
 
@@ -54,7 +54,7 @@ Prior to Thomas High School adjustment:
 ![District_grade_og](./Resources/district_summary_grade_og.png)
 
 After Thomas High School adjustment:
-![District_grade_updt](./Resources/district_summary_grade_updt.png) 
+![District_grade_updt](./Resources/district_summary_Grade_updt.png)
 
 **School Size**:  
 The removal of the 9th graders' results from Thomas High School does not change the actual size of the school.  Even if the 461 9th graders were removed from the total school size, Thomas High School would still be included in the "Medium (1000 - 2000)" category with a new student total of 1,174 students.  
