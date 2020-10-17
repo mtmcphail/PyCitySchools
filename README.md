@@ -62,7 +62,7 @@ The removal of the 9th graders' results from Thomas High School does not change 
 The results of performance based on school size is not affected when rounding to the nearest tenth of a point.
 ![School_size](./Resources/school_size_updt.png)
 
-**School Spend**:   
+**School Spend**:     
 Similarly, the removal of the 9th grader scores does not change the school's budget nor the spend per student.  It has an insignificant effect on the performance based on dollars spent per student when rounding to the nearest tenth of a point.
 ![School_spend](./Resources/school_spend_updt.png)
 
@@ -96,7 +96,8 @@ Here are some findings regardless of the Thomas High School 9th-grade scores (*p
 
 2.  **Charter Schools perform better than District Schools** on the standardized math and reading tests and had a higher overall passing percentage. In fact, all the top 5 schools were all Charter and all the bottom 5 were District. Even more telling, is the fact ALL of the Charter-type schools (Rank 1 through 8) outperformed ALL of the District-type schools (Rank 9 through 15). 
 
-3.  **More budget dollars per student does not determine test performance**. In fact, we see an inverse relationship; the fewer budget dollars per student the higher their scores and percent of students passing. However, it is not clear what portion of the budget dollars per student is going towards curriculum versus non-cirrculuum expenses (i.e. facilities), or what additional, outside funding made be contributing to the curriculum to contradict this relationship.  ![spending_graph](./Resources/spending_graph.png)
+3.  **More budget dollars per student does not determine test performance**. In fact, we see an inverse relationship; the fewer budget dollars per student the higher their scores and percent of students passing. However, it is not clear what portion of the budget dollars per student is going towards curriculum versus non-cirrculuum expenses (i.e. facilities), or what additional, outside funding made be contributing to the curriculum to contradict this relationship.
+![spending_graph](./Resources/spending_graph.png)
 
 4. **Schools with 2000 or Fewer students** seem to perform better on these standardized tests than the larger schools. Only 1 of the 8 schools with an enrollment of more than 2,000 students is in the top 50% of schools; and that school is a Charter-type school!
 
