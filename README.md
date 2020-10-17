@@ -92,14 +92,14 @@ Finally, the number of test scores eliminated from the overall analysis represen
 
 Here are some findings regardless of the Thomas High School 9th-grade scores (*please refer to the all school summary below*):   
  
-1.  The students of PyCity School District tend to **do better on Reading tests** than Math; and a higher percentage of students earn a passing grade on Reading.  
+1.  The students of PyCity School District tend to **perform better on reading tests** than Math; and a higher percentage of students earn a passing grade on Reading.  
 
 2.  **Charter Schools perform better than District Schools** on the standardized math and reading tests and had a higher overall passing percentage. In fact, all the top 5 schools were all Charter and all the bottom 5 were District. Even more telling, is the fact ALL of the Charter-type schools (Rank 1 through 8) outperformed ALL of the District-type schools (Rank 9 through 15). 
 
-3.  **More budget dollars per student does not determine test performance**. In fact, we see an inverse relationship; the fewer budget dollars per student the higher their scores and percent of students passing. However, it is not clear what portion of the budget dollars per student is going towards curriculum versus non-cirrculuum expenses (i.e. facilities), or what additional, outside funding made be contributing to the curriculum to contradict this relationship.
-![spending_graph](./Resources/spending_graph.png)
+3.  **More budget dollars per student does not determine test performance**. In fact, we see an inverse relationship; the fewer budget dollars per student the higher their scores and percent of students passing. However, it is not clear what portion of the budget dollars per student is going towards curriculum versus non-cirrculuum expenses (i.e. facilities), or what additional, outside funding made be contributing to the curriculum to contradict this relationship.  
+ ![spending_graph](./Resources/spending_graph.png)
 
-4. **Schools with 2000 or Fewer students** seem to perform better on these standardized tests than the larger schools. Only 1 of the 8 schools with an enrollment of more than 2,000 students is in the top 50% of schools; and that school is a Charter-type school!
+4. **Schools with 2,000 or Fewer students** seem to perform better on these standardized tests than the larger schools. Only 1 of the 8 schools with an enrollment of more than 2,000 students is in the top 50% of schools; and that school is a Charter-type school!
 
 **All School Summary Rankings:**
 ![all_school_summary](./Resources/all_school_summary.png)
